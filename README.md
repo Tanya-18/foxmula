@@ -1,2 +1,2 @@
 # foxmula
-jupyter notebooks
+jupyter notebooks for foxmula internship.
